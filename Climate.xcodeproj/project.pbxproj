@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		63E28ACB1B99C32400FBF6E0 /* Climate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Climate.app; path = Climatete.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		63E28ACB1B99C32400FBF6E0 /* Climate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Climate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63E28ACF1B99C32400FBF6E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63E28AD01B99C32400FBF6E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63E28AF01B99C35700FBF6E0 /* WeatherDataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WeatherDataModel.swift; sourceTree = "<group>"; };
@@ -105,9 +105,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		63E28ACA1B99C32400FBF6E0 /* Climatete */ = {
+		63E28ACA1B99C32400FBF6E0 /* Climate */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 63E28AEA1B99C32400FBF6E0 /* Build configuration list for PBXNativeTarget "Climatete" */;
+			buildConfigurationList = 63E28AEA1B99C32400FBF6E0 /* Build configuration list for PBXNativeTarget "Climate" */;
 			buildPhases = (
 				63E28AC71B99C32400FBF6E0 /* Sources */,
 				63E28AC81B99C32400FBF6E0 /* Frameworks */,
@@ -117,7 +117,7 @@
 			);
 			dependencies = (
 			);
-			name = Climatete;
+			name = Climate;
 			productName = Climate;
 			productReference = 63E28ACB1B99C32400FBF6E0 /* Climate.app */;
 			productType = "com.apple.product-type.application";
@@ -152,7 +152,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				63E28ACA1B99C32400FBF6E0 /* Climatete */,
+				63E28ACA1B99C32400FBF6E0 /* Climate */,
 			);
 		};
 /* End PBXProject section */
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		63E28AEA1B99C32400FBF6E0 /* Build configuration list for PBXNativeTarget "Climatete" */ = {
+		63E28AEA1B99C32400FBF6E0 /* Build configuration list for PBXNativeTarget "Climate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				63E28AEB1B99C32400FBF6E0 /* Debug */,
